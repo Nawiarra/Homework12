@@ -1,0 +1,15 @@
+[submodule "TrapezoidProgram"]
+	path = TrapezoidProgram
+	url = https://github.com/Nawiarra/TrapezoidProgram
+[submodule "CircleProgram"]
+	path = CircleProgram
+	url = https://github.com/Nawiarra/CircleProgram
+[submodule "ProgramForWorkingWithGeometricFigure"]
+	path = ProgramForWorkingWithGeometricFigure
+	url = https://github.com/Nawiarra/ProgramForWorkingWithGeometricFigure
+[submodule "BouquetProgram"]
+	path = BouquetProgram
+	url = https://github.com/Nawiarra/BouquetProgram
+[submodule "DBManageProgram"]
+	path = DBManageProgram
+	url = https://github.com/Nawiarra/DBManageProgram
